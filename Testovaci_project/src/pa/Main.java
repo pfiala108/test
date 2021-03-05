@@ -3,7 +3,7 @@ package pa;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.printlt("Ahoj");
 
 	}
 
